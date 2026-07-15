@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8787706489:AAFxgvD7Dg1_NFy8a3VWWAwzEB_-nZheiFc"
+OWNER_ID = 2080060354
+TELEGRAM_API = 8864773
+TELEGRAM_HASH = "0d2355c5f0d713381fa9b47d76b4611e"
+DATABASE_URL = "mongodb+srv://COBRA:COBRA@cluster0.bte9kiq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -172,8 +172,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/Anuradha9160/Roxy"
+UPSTREAM_BRANCH = "wzv3"
 # Leech
 LEECH_SPLIT_SIZE = 0
 AS_DOCUMENT = False
